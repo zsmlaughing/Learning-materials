@@ -1,8 +1,8 @@
 # 前端学习笔记
 ## 内容  
 
-### [Html](./HTML/html.md)
-### [Css](./CSS/css.md)  
+### [Html](./HTML/index.md)
+### [Css](./CSS/index.md)  
 ### [javaScript](./javaScript/index.md)  
 ### [Typescript](./typescript/index.md)  
 ### [Vue](./VUE/index.md)  
